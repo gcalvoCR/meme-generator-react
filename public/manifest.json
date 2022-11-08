@@ -1,0 +1,14 @@
+{
+  "short_name": "Meme Generator",
+  "name": "Meme generator - Gabriel Calvo",
+  "icons": [
+    {
+      "src": "troll.png",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
